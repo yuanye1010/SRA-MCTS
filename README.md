@@ -7,6 +7,7 @@
 <p align="center">
   📄 <a href="https://arxiv.org/pdf/2411.11053" target="_blank">Paper</a> &nbsp; | &nbsp;
   🤗 <a href="#code" target="_blank">Quick start</a> &nbsp;
+  🎰 <a href="https://huggingface.co/datasets/BinXD/SRA-MCTS-Llama-3.1-8B" target="_blank">Datasets</a> &nbsp;| &nbsp;
   ⚖️ <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache-2.0 License</a>
 </p>
 
