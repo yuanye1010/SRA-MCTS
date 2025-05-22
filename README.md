@@ -13,7 +13,7 @@
 
 
 # Table of Contents
-- [Acceptance Status](#Acceptance Status)
+- [Acceptance Status](#Acceptance-Status)
 - [Overview](#overview)
 - [Experimental Results](#experimental-results)
   - [Comparison between External Model Generated Data and Self-Generated Data](#comparison-between-external-model-generated-data-and-self-generated-data)
