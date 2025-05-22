@@ -13,6 +13,7 @@
 
 
 # Table of Contents
+- [Acceptance Status](#Acceptance Status)
 - [Overview](#overview)
 - [Experimental Results](#experimental-results)
   - [Comparison between External Model Generated Data and Self-Generated Data](#comparison-between-external-model-generated-data-and-self-generated-data)
@@ -21,6 +22,9 @@
 - [Language Models and Datasets](#language-models-and-datasets)
 - [Comparisons](#comparisons)
 - [Code](#code)
+
+# Acceptance Status
+Our work has been accepted by IJCAI 2025 .
 
 # Overview
 In this work, we propose and validate the following findings:
