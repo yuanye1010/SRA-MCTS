@@ -52,7 +52,7 @@
 ### 外部模型生成数据和自身生成数据的对比
 
 <p align="center">
-  <img width="500" alt="62b86fc1ed018e717e1ef1ae806d88e" src="images/experiment1.png">
+  <img width="500" alt="62b86fc1ed018e717e1ef1ae806d88e" src="images/experiment_distill.png">
 </p>
 
 上图展示了同一模型在自生成数据与由外部模型蒸馏得到数据上的性能对比。在此对比中，外部模型使用的是 **Meta-Llama-3-70B-Instruct**。
@@ -76,7 +76,7 @@
 ### 不同方法的性能对比
 
 <p align="center">
-  <img width="694" alt="e6b067489885e4de46dac0b2f8b15a9" src="images/experiment2.png">
+  <img width="694" alt="e6b067489885e4de46dac0b2f8b15a9" src="images/experiment_main.png">
 </p>
 
 上表对比了 **官方发布的指令版本**、**CoT 训练版本** 和我们提出的 **SRA-MCTS** 在 **2B**、**8B** 和 **14B** 规模下的性能表现。表中标有 **`*`** 和 **加粗** 的值表示在特定基准测试中，该模型在该规模类别下表现最优。
