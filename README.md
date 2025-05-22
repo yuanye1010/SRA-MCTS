@@ -58,7 +58,7 @@ Through extensive experiments, we found that:
 ### Comparison between External Model Generated Data and Self-Generated Data
 
 <p align="center">
-  <img width="500" alt="62b86fc1ed018e717e1ef1ae806d88e" src="images/experiment1.png">
+  <img width="500" alt="62b86fc1ed018e717e1ef1ae806d88e" src="images/experiment_distill.png">
 </p>
 
 The above figure shows a performance comparison between the same model using self-generated data and data distilled from an external model. The external model used is **Meta-Llama-3-70B-Instruct**.
