@@ -69,7 +69,7 @@ The above figure shows a performance comparison between the same model using sel
   <img src="images/ablation.png" />
 </div>
 
-This experiment investigates the role of natural language reasoning steps in model responses. In this case, the **SRA-MCTS** training data includes both natural language reasoning and code, while another set of data only includes code.
+This experiment investigates the role of natural language reasoning steps in model responses. In this case, ``w/o thinking'' represents the model is trained without thinking in the training set. ``C'' represents the Complex split.
 
 We found that models trained without natural language data demonstrated a significant performance decline across all three model scales. While the performance gap was small (1-2 points) on the **Human-Eval** related benchmarks, the difference was much more pronounced on the **MBPP** related benchmarks.
 
