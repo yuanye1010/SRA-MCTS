@@ -82,7 +82,7 @@ This clearly demonstrates the guiding and stimulating effect of natural language
 ### Performance Comparison of Different Methods
 
 <p align="center">
-  <img width="694" alt="e6b067489885e4de46dac0b2f8b15a9" src="images/experiment2.png">
+  <img width="694" alt="e6b067489885e4de46dac0b2f8b15a9" src="images/experiment_main.png">
 </p>
 
 The above table compares the performance of the **official instruction version**, **CoT training version**, and our proposed **SRA-MCTS** across **2B**, **8B**, and **14B** model scales. Values marked with **`*`** and **bold** indicate the best performance in specific benchmarks within that model scale category.
